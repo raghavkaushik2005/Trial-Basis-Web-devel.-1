@@ -10,3 +10,6 @@ iframe{
 h1, h2{
     text-shadow: 1px 1px 1px black;
 }
+p{
+    color: yellow;
+}
